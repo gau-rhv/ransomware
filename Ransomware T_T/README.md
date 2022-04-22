@@ -1,1 +1,1 @@
-# ⚠️ Do not run the docx.exe file inside.
+# ⚠️ Do not run the docx.exe file.
