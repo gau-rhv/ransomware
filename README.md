@@ -1,6 +1,8 @@
-# ⚠️
+# 🃏
 
-## This ransomware was made in ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+## 👺🔒
+
+This is a ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ransomware made with ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) framework
 
 This will encypt your Windows machine 🔒
 Do not Run the docx.exe file inside
