@@ -16,3 +16,4 @@ If you wanna run it, run it in a Windows Virtual Machine
 
 ## Screenshot
 
+![nocry-ransomware-pop-up-ransom-message-stf](https://user-images.githubusercontent.com/102450738/164954391-29fffcd5-9c76-4884-abf0-e2031729e1e9.png)
